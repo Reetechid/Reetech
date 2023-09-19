@@ -133,8 +133,7 @@
 
       <div class="col-lg-4">
         <div class="box" data-aos="fade-up" data-aos-delay="200">
-          <img src="<?= base_url(); ?>vendor
-          /front-end/assets/img/values-1.png" class="img-fluid" alt="">
+          <img src="<?= base_url(); ?>vendor/front-end/assets/img/values-1.png" class="img-fluid" alt="">
           <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
